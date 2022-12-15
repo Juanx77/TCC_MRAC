@@ -1,0 +1,19 @@
+ler as diferenças da MIT rule pra Lyapunov
+
+aprender MIT rule
+
+aprender Lyapunov 
+
+esses de cima é no livro sobre MRAC em pt-br, se nao der, vai no livro do Astrom
+
+artigo do serralheiro provando a nao linearidade (dentro do artigo do modulo)
+
+pesquisar sobre o controle auto-ajustavel (base para o MRAC)
+
+testar usar o GNU Octave (irmao gratis do matlab) e (nem tanto) o Scilab
+
+aprender na marra a usar o overleaf
+
+ler o livro pra aprender a fazer MRAC, ate no matlab
+
+ler sobre logica fuzzy
