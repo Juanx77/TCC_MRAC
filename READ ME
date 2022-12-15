@@ -1,1 +1,28 @@
-Aqui vai ter as informações essenciais pra usar a biblioteca
+Olá, meu nome é Juan Santos. Eu escrevi essa biblioteca, para que você possa usar para aplicar o controle adaptativo por modelo de referência (MRAC).
+Essa biblioteca faz parte do meu TCC em Eng. de Controle e Automação no IFRO campus Calama em 2022.
+Fiz isso com a ajuda dos meus orientadores José Diogo e Kariston Dias, sem contar a ajuda de dezenas de desconhecidos na internet que fizeram artigos, livros, dúvidas em fórums da internet e tudo mais que precisa para sair um graduando que tinha apenas o conceito de controle adaptativo e agora pôde entender um pouco para fazer essa biblioteca.
+Estou fazendo isso pq seria o que teria me ajudado muito no meu curso, durante não lembro qual matéria, mas alguma da área de controle, continuar no assunto de controle avançado e entrar no controle adaptativo. Mas que isso ja é assunto para outra história.
+
+Vamos para o que realmente importa. Nessa pasta você vai encontrar:
+ - A pasta 'examples': Nessa pasta tem os códigos de Arduino que espero ajudar você a entender melhor como utilizar cada função dessa biblioteca;
+ - O arquivo 'keywords': Nada mais é que um arquivo de texto para a IDE do Arduino colorir diferente as funções quando você estiver utilizando;
+ - Os arquivos 'MRAC.h' e 'MRAC.cpp': Esses dois arquivos funcionam juntos, é literalmente onde a biblioteca funciona. Não modifique nada sem ter muita certeza do que está fazendo, mesmo assim, por garantia, faça uma cópia de segurança antes das suas mudanças.
+
+
+Para mais informações pode entrar em contato comigo pelo email: juan.victor73x@gmail.com
+
+
+
+
+Hello, my name is Juan Santos. I wrote this library, so you can use it to apply Adaptive Control by Reference Model (MRAC).
+This library is part of my TCC in Eng. of Control and Automation at the IFRO Campus Calama in 2022.
+I did this with the help of my advisors José Diogo and Kariston Dias, not to mention the help of dozens of strangers on the internet who wrote articles, books, questions on internet forums and everything else that a graduate student who had just the concept of adaptive control and now could understand a little to make this library.
+I'm doing this because it would have helped me a lot in my course, during I don't remember which subject, but some in the control area, continuing with the subject of advanced control and getting into adaptive control. But that is already a subject for another story.
+
+Let's get down to what really matters. In that folder you will find:
+  - The 'examples' folder: In this folder you have the Arduino codes that I hope will help you to better understand how to use each function of this library;
+  - The 'keywords' file: Nothing more than a text file for the Arduino IDE to color the functions differently when you are using them;
+  - The 'MRAC.h' and 'MRAC.cpp' files: These two files work together, it's literally where the library works. Don't modify anything unless you're very sure of what you're doing, even so, just in case, make a backup before your changes.
+
+
+For more information you can contact me by email: juan.victor73x@gmail.com
