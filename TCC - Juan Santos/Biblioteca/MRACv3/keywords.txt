@@ -1,0 +1,15 @@
+DMRAC KEYWORD1
+ModeloGanho KEYWORD2
+ModeloDenominador KEYWORD2
+Modelo KEYWORD2
+Adaptacao KEYWORD2
+SetPoint KEYWORD2
+start KEYWORD2
+run KEYWORD2
+plotVisual KEYWORD2
+plotGrafico KEYWORD2
+mostraModeloGanho KEYWORD2
+mostraModeloDenominador KEYWORD2
+mostraModelo KEYWORD2
+mostraAdaptacao KEYWORD2
+mostraSetPoint KEYWORD2
